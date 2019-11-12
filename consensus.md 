@@ -1,1 +1,13 @@
 consensus: how the network reaches agreement about which transactions are most trustworthy 
+
+proof of work: an algorithm used to reach consensus by making information costly to produce but easy to verify. 
+
+each node is involved in solving a problem that proves they have done work 
+node that solves these problems are called miner 
+in return for the time/resources they are rewarded a fee 
+
+proof of stake: an algorithm that seeks to achieve consensus by giving votes to those with stake in the system. 
+
+delegated byzantine fault tolerance is a consensus algorithm based on assigning roles to nodes to help coordinate consensus.
+
+Other consensus algorithms include proof of activity and proof of burn
